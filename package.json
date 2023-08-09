@@ -32,7 +32,7 @@
     "validate": "npm ls"
   },
   "devDependencies": {
-    "@node-minify/babel-minify": "6.2.0",
+    "@node-minify/babel-minify": "6.4.0",
     "@node-minify/cli": "6.2.0",
     "@types/chai": "4.2.21",
     "@types/mocha": "9.0.0",
