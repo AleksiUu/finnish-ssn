@@ -34,7 +34,7 @@
   "devDependencies": {
     "@node-minify/babel-minify": "6.2.0",
     "@node-minify/cli": "6.2.0",
-    "@types/chai": "4.2.21",
+    "@types/chai": "4.3.7",
     "@types/mocha": "9.0.0",
     "@types/mockdate": "3.0.0",
     "@typescript-eslint/eslint-plugin": "4.29.0",
